@@ -9,4 +9,4 @@
 
 ---------------------------------------------  
 
-You can make fasta format file for Diamond with data_collector.py file[https://github.com/yoohw2/tutorial10/blob/main/data_collector.py].  
+You can make fasta format file for Diamond with data_collector.py file from [here](https://github.com/yoohw2/tutorial10/blob/main/data_collector.py) .
